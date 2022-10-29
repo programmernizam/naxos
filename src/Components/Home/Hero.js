@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section>
       <div className="hero min-h-[85vh] hero_section">
-        <div className="container mx-auto z-10 lg:px-5">
+        <div className="container mx-auto lg:px-5">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-5 items-center justify-items-center">
             <div>
               <h1 className="text-3xl text-center lg:text-left md:text-6xl font-bold text-white">
