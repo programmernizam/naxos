@@ -7,7 +7,7 @@ const Navbar = ({ children }) => {
         <a href="#home">Home</a>
       </li>
       <li>
-        <a href="#home">Features</a>
+        <a href="#features">Features</a>
       </li>
       <li>
         <a href="#home">Screenshots</a>

@@ -54,7 +54,7 @@ const Features = () => {
     },
   ];
   return (
-    <section>
+    <section id="features">
       <div className="container mx-auto py-10">
         <div className="text-center">
           <h2 className="text-4xl font-bold">Awesome Features</h2>

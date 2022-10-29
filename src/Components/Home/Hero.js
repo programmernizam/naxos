@@ -40,7 +40,11 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-            <img src={mobile} className="w-content" alt="hero_mobile" />
+            <img
+              src={mobile}
+              className="w-content hero_phone"
+              alt="hero_mobile"
+            />
           </div>
         </div>
       </div>
