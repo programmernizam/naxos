@@ -3,6 +3,7 @@ import Navbar from "../Shared/Navbar";
 import Features from "./Features";
 import Hero from "./Hero";
 import Partners from "./Partners";
+import Watch from "./Watch";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <Hero />
         <Partners />
         <Features />
+        <Watch />
       </Navbar>
     </div>
   );
