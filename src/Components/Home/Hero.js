@@ -47,6 +47,11 @@ const Hero = () => {
             />
           </div>
         </div>
+        <div className="wave-animation hidden lg:inline-block">
+          <div className="wave-1 wave"></div>
+          <div className="wave-2 wave"></div>
+          <div className="wave-3 wave"></div>
+        </div>
       </div>
     </section>
   );

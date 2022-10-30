@@ -40,7 +40,7 @@ const Services = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 lg:px-24 my-10">
           {services.map((service) => (
             <div key={service.id}>
-              <div className="card card-compact rounded-md shadow shadow-stone-300 p-10 group hover:bg-secondary duration-700">
+              <div className="card card-compact rounded-md shadow shadow-stone-300 p-10 group hover:bg-secondary duration-700 hover:translate-y-[-5px]">
                 <figure>
                   <div className="p-5 rounded-full bg-secondary border-2 border-white group-hover:bg-purple-600">
                     <img src={service.img} alt="Shoes" className="w-10" />
