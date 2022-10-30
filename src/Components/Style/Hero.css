@@ -10,12 +10,12 @@
 }
 .hero_section .wave {
   position: absolute;
-  width: 200%;
+  width: 100%;
   height: 100px;
   bottom: 10px;
   left: 0;
   background-image: url(../../assets/wave-3.png);
-  background-size: 50% 100px;
+  background-size: 150% 100px;
   opacity: 0.2;
 }
 .hero_section .wave.wave-1 {

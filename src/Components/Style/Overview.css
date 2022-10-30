@@ -1,0 +1,16 @@
+/* Overview Mobile */
+.overview_mobile {
+  position: relative;
+  animation: bounceIn 3s infinite;
+}
+@keyframes bounceIn {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 25px;
+  }
+  100% {
+    top: 0;
+  }
+}
