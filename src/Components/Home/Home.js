@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../Shared/Footer";
 import Navbar from "../Shared/Navbar";
 import Features from "./Features";
 import Hero from "./Hero";
@@ -17,6 +18,7 @@ const Home = () => {
         <Watch />
         <Services />
         <Overview />
+        <Footer />
       </Navbar>
     </div>
   );
